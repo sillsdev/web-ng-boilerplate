@@ -1,4 +1,2 @@
-web-ng-boilerplate
-==================
-
-Angular boilerplate for starting a new project
+web-languagedepot-stats
+=======================
